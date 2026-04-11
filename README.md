@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Shae_Seedan--blue?style=plastic&labelColor=black) <br>
+## Shae Seedan <br>
 <kbd>Aspiring Software Engineer</kbd> • <kbd>BSc (Hons) IT (First Class)</kbd>
 
 ```yaml
