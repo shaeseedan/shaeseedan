@@ -1,16 +1,15 @@
-### Hi there 👋
+```yaml
+shaeseedan@terminal ------------------------------------------------------- ~
+ Focus: .................................. C Programming, Low-Level Systems
+ Learning: ............................... Memory • Pointers • Problem Solving
+ Goal: ....................................... Embedded Software Engineering
 
-<!--
-**shaeseedan/shaeseedan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Information ------------------------------------------------------------ -
+ Learning: ............. C (Documenting the journey, one project at a time)
+ Tools Used: ........... Python, Java, PHP, SQL, HTML/CSS, Figma, Paradigm
 
-Here are some ideas to get you started:
+ - Background ------------------------------------------------------------- -
+ Degree: .................. BSc (Hons) Information Technology (First Class)
+ Experience: ................... System Design, Agile Research and Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-----------------------------------------------------------------------------
