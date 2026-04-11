@@ -1,13 +1,14 @@
-## Shae Seedan <br>
+## ... a bit about me <br>
 <kbd>Aspiring Software Engineer</kbd> • <kbd>BSc (Hons) IT (First Class)</kbd>
 
 ```yaml
 @shaePC> run details --fundamentals
---------------------------------------------------------------------------------
+
  Focus: ............................. [C Programming] • [Project-Based Learning]
  Currently Learning: ................. Syntax • Memory Control • Problem Solving
  Goal: ................................ Master the "How" to build the "Anything"
---------------------------------------------------------------------------------
+
+@shaePC> _
 ```
 
 ![C](https://img.shields.io/badge/Core-C_Programming-blue?style=plastic&logo=c&logoColor=white&labelColor=black)
