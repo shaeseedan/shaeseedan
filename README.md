@@ -13,4 +13,4 @@
 
 ![C](https://img.shields.io/badge/Core-C_Programming-blue?style=plastic&logo=c&logoColor=white&labelColor=black)
 ![Design](https://img.shields.io/badge/Architecture-Visual_Paradigm-red?style=plastic&logo=visualparadigm&logoColor=white&labelColor=black)
-![SQL](https://img.shields.io/badge/Data-SQL-orange?style=plastic&logo=mysql&logoColor=white&labelColor=black)
+![SQL](https://img.shields.io/badge/Data-SQL-orange?style=plastic&labelColor=black)
