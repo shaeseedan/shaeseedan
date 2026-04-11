@@ -1,15 +1,15 @@
+![Static Badge](https://img.shields.io/badge/Shae_Seedan--blue?style=plastic&labelColor=black) <br>
+<kbd>Aspiring Software Engineer</kbd> • <kbd>BSc (Hons) IT (First Class)</kbd>
+
 ```yaml
-shaeseedan@terminal ------------------------------------------------------- ~
- Focus: .................................. C Programming, Low-Level Systems
- Learning: ............................... Memory • Pointers • Problem Solving
- Goal: ....................................... Embedded Software Engineering
+@shaePC> run details --fundamentals
+--------------------------------------------------------------------------------
+ Focus: ............................. [C Programming] • [Project-Based Learning]
+ Currently Learning: ................. Syntax • Memory Control • Problem Solving
+ Goal: ................................ Master the "How" to build the "Anything"
+--------------------------------------------------------------------------------
+```
 
- - Information ------------------------------------------------------------ -
- Learning: ............. C (Documenting the journey, one project at a time)
- Tools Used: ........... Python, Java, PHP, SQL, HTML/CSS, Figma, Paradigm
-
- - Background ------------------------------------------------------------- -
- Degree: .................. BSc (Hons) Information Technology (First Class)
- Experience: ................... System Design, Agile Research and Development
-
------------------------------------------------------------------------------
+![C](https://img.shields.io/badge/Core-C_Programming-blue?style=plastic&logo=c&logoColor=white&labelColor=black)
+![Design](https://img.shields.io/badge/Architecture-Visual_Paradigm-red?style=plastic&logo=visualparadigm&logoColor=white&labelColor=black)
+![SQL](https://img.shields.io/badge/Data-SQL-orange?style=plastic&logo=mysql&logoColor=white&labelColor=black)
