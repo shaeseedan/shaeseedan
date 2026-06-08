@@ -4,13 +4,14 @@
 ```yaml
 @shaePC> run details --fundamentals
 
- Focus: ............................. [Python Programming] • [C Programming] • [Project-Based Learning]
- Currently Learning: ................. Syntax • Memory Control • Problem Solving
+ Focus: ............................... [Python Programming] • [C Programming] • [Project-Based Learning]
+ Currently Learning: .................. Syntax • Memory Control • Problem Solving
  Goal: ................................ Master the "How" to build the "Anything"
 
 @shaePC> _
 ```
 
-![C](https://img.shields.io/badge/Core-C_Programming-blue?style=plastic&logo=c&logoColor=white&labelColor=black)
-![Design](https://img.shields.io/badge/Architecture-Visual_Paradigm-red?style=plastic&logo=visualparadigm&logoColor=white&labelColor=black)
-![SQL](https://img.shields.io/badge/Data-SQL-orange?style=plastic&labelColor=black)
+![Python](https://img.shields.io/badge/Python-Programming_&_Automation-blue?style=plastic&labelColor=black)
+![C](https://img.shields.io/badge/C-Memory_&_Core_Fundamentals-blue?style=plastic&labelColor=black)
+![UML](https://img.shields.io/badge/UML-Systems_&_Architecture-red?style=plastic&labelColor=black)
+![SQL](https://img.shields.io/badge/SQL-Data_Modeling-orange?style=plastic&labelColor=black)
