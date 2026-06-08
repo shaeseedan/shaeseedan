@@ -1,10 +1,10 @@
 ## ... a bit about me <br>
-<kbd>Aspiring Software Engineer</kbd> • <kbd>BSc (Hons) IT (First Class)</kbd>
+<kbd>Aspiring Automation Systems Engineer</kbd> • <kbd>BSc (Hons) IT (First Class)</kbd>
 
 ```yaml
 @shaePC> run details --fundamentals
 
- Focus: ............................. [C Programming] • [Project-Based Learning]
+ Focus: ............................. [Python Programming] • [C Programming] • [Project-Based Learning]
  Currently Learning: ................. Syntax • Memory Control • Problem Solving
  Goal: ................................ Master the "How" to build the "Anything"
 
